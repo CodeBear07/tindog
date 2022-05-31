@@ -40,6 +40,9 @@ p {
   background-color: #ff4c68;
 
 }
+.dogAgeCalc {
+  text-align: left;
+}
 
 .title-img {
  transform: rotate(15deg);
